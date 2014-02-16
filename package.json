@@ -1,0 +1,33 @@
+{
+  "name": "node-practice",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "express": "3.4.8",
+    "ejs": "*",
+    "less-middleware": "*",
+    "logfmt": "~0.21.0"
+  },
+  "description": "potato-node ===========",
+  "main": "web.js",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ahnbj2000/potato-node.git"
+  },
+  "engines": {
+  	"node": "0.10.x"
+  },
+  "keywords": [
+    "node"
+  ],
+  "author": "Byeongjin ahn",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ahnbj2000/potato-node/issues"
+  },
+  "homepage": "https://github.com/ahnbj2000/potato-node"
+}
